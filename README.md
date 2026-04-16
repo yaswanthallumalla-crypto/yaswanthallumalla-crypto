@@ -1,5 +1,19 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on<br>Data analytics and visualization projects<br>Front-end web applications (React, JavaScript)<br>Open-source projects related to Python, dashboards, and system-level tools<br>🤝 I’m looking for help with<br>Advanced system design concepts<br>Optimizing data pipelines and dashboards<br>Improving scalability and performance in web applications<br>🌱 I’m currently learning<br>Advanced Python for data science<br>React and modern front-end development<br>System engineering concepts and real-world problem solving<br>💬 Ask me about<br>Power BI dashboards and data storytelling<br>Python, SQL, and data analysis<br>Front-end basics (HTML, CSS, JavaScript, React)<br>ECG signal processing using MATLAB
+👋 Hi, I’m Yaswanth
+
+I’m an Electronics and Communication Engineering student with a strong interest in data analytics, system engineering, and software development. I enjoy building data visualization dashboards, web applications, and analytical solutions that turn raw data into meaningful insights.
+
+I have hands-on experience with Python, SQL, Power BI, JavaScript, React, and MATLAB, and I’ve worked on projects ranging from sales and banking dashboards to ECG signal processing. I’m passionate about problem-solving, debugging, and continuous learning, and I enjoy collaborating on real-world, impact-driven projects.
+
+🔧 Tech Stack
+Languages: Python, C, C++, JavaScript, SQL
+Data & Visualization: Power BI, Excel, Pandas, NumPy, Matplotlib
+Web: HTML, CSS, React
+Tools: Git, VS Code, MATLAB, Jupyter Notebook
+🚀 What I’m Working On
+Data visualization and analytics projects
+Front-end web applications
+System-level and analytical problem solving
 
 
 ## 🌐 Socials:
