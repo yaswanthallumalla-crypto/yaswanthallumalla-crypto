@@ -2,109 +2,35 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=800&lines=Electronics+and+Communication+Engineer;Data+Analytics+Enthusiast;Python+Developer;Frontend+Learner;Always+Learning+New+Things"/>
 
----
 
-## 🚀 About Me
+# 💫 About Me:
 
-🎓 Electronics and Communication Engineering Student  
-📊 Passionate about Data Analytics & Visualization  
-💻 Interested in Software Development & System Engineering  
-🔍 Love solving real-world problems using technology  
-🌱 Currently learning advanced analytics and web technologies  
-🤝 Open for collaborations and project opportunities  
+I’m an Electronics and Communication Engineering student with a strong interest in data analytics, system engineering, and software development. I enjoy building data visualization dashboards, web applications, and analytical solutions that turn raw data into meaningful insights.
 
----
+I have hands-on experience with Python, SQL, Power BI, JavaScript, React, and MATLAB, and I’ve worked on projects ranging from sales and banking dashboards to ECG signal processing. I’m passionate about problem-solving, debugging, and continuous learning, and I enjoy collaborating on real-world, impact-driven projects.
 
-## 🔭 Current Focus
+🔧 Tech Stack
+Languages: Python, C, C++, JavaScript, SQL
+Data & Visualization: Power BI, Excel, Pandas, NumPy, Matplotlib
+Web: HTML, CSS, React
+Tools: Git, VS Code, MATLAB, Jupyter Notebook
+🚀 What I’m Working On
+Data visualization and analytics projects
+Front-end web applications
+System-level and analytical problem solving
 
-- 📈 Building interactive dashboards
-- 🌐 Developing frontend applications
-- 🧠 Improving problem-solving skills
-- ⚡ Working on signal processing & analytics projects
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/monu_dream_fighter_?igsh=MXdvbHJxMGhodjdkcA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/allumalla-yaswanth-a0a300287 ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yaswantha370@gmail.com) 
 
-## 🛠 Tech Toolbox
-
-### Programming Languages
-![Python](https://skillicons.dev/icons?i=python)
-![C](https://skillicons.dev/icons?i=c)
-![Cpp](https://skillicons.dev/icons?i=cpp)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![SQL](https://skillicons.dev/icons?i=mysql)
-
-### Web Development
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![React](https://skillicons.dev/icons?i=react)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-
-### Data Analytics & Tools
-![Pandas](https://skillicons.dev/icons?i=python)
-![Git](https://skillicons.dev/icons?i=git)
-![Github](https://skillicons.dev/icons?i=github)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-![Matlab](https://skillicons.dev/icons?i=matlab)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=yaswanthallumalla-crypto&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=yaswanthallumalla-crypto&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=yaswanthallumalla-crypto&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
-## 📌 Featured Projects
-
-### 📊 Data Analytics Dashboard
-✔ Sales and Business Analytics Dashboard  
-✔ Interactive visualizations using Power BI  
-
-### ❤️ ECG Signal Processing
-✔ Signal filtering and feature extraction  
-✔ MATLAB-based implementation  
-
-### 🌐 Web Applications
-✔ React-based frontend applications  
-✔ Responsive UI design  
-
----
-
-## 🏆 Achievements
-
-🥇 Built multiple data visualization projects  
-🥇 Developed analytical dashboards  
-🥇 Worked on signal processing applications  
-🥇 Continuously learning new technologies  
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/allumalla-yaswanth-a0a300287)
-
-[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://www.instagram.com/monu_dream_fighter_)
-
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:yaswantha370@gmail.com)
-
----
-
-## 📊 GitHub Analytics
-
-![](https://github-readme-stats.vercel.app/api?username=yaswanthallumalla-crypto&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=yaswanthallumalla-crypto&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanthallumalla-crypto&layout=compact&theme=tokyonight)
-
----
-
-## 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yaswanthallumalla-crypto&theme=tokyo-night)](https://github.com/yaswanthallumalla-crypto)
-
----
-
-## 💭 Quote of the Day
-
-> "Learning never exhausts the mind; it only expands possibilities."
-
----
-
-![](https://komarev.com/ghpvc/?username=yaswanthallumalla-crypto&color=blueviolet)
+[![](https://komarev.com/ghpvc/?username=yaswanthallumalla-crypto&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
