@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi there, I'm Yaswanth
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=800&lines=Electronics+and+Communication+Engineer;Data+Analytics+Enthusiast;Python+Developer;Frontend+Developer;"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=800&lines=Electronics+and+Communication+Engineer;Data+Analytics;Python+Developer;Frontend+Developer;"/>
 
 
 # 💫 About Me:
