@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=800&lines=Electronics+and+Communication+Engineer;Data+Analytics;Python+Developer;Frontend+Developer;"/>
 
 
-# 💫 About Me:
+ 💫 About Me:
 
 I’m an Electronics and Communication Engineering student with a strong interest in data analytics, system engineering, and software development. I enjoy building data visualization dashboards, web applications, and analytical solutions that turn raw data into meaningful insights.
 
