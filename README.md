@@ -1,168 +1,37 @@
-```md
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:4F46E5&height=240&section=header&text=Yaswanth%20Allumalla&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ECE%20Engineer%20|%20Data%20Analytics%20|%20Python%20Developer%20|%20VLSI%20Enthusiast&descAlignY=60"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:4F46E5&height=220&section=header&text=Yaswanth%20Allumalla&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Electronics%20and%20Communication%20Engineer%20|%20Data%20Analytics%20|%20Python%20Developer&descAlignY=60"/>
 </p>
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi there, I'm Yaswanth
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
-  Hi, I'm Yaswanth Allumalla
-</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=800&lines=Electronics+and+Communication+Engineer;Data+Analytics;Python+Developer;Frontend+Developer;"/>
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=900&lines=Electronics+and+Communication+Engineer;Data+Analytics+Enthusiast;Python+Developer;Frontend+Developer;VLSI+%26+Embedded+Systems+Learner;Problem+Solver+%26+Tech+Explorer"
-  />
-</p>
+
+ 💫 About Me:
+
+I’m an Electronics and Communication Engineering student with a strong interest in data analytics, system engineering, and software development. I enjoy building data visualization dashboards, web applications, and analytical solutions that turn raw data into meaningful insights.
+
+I have hands-on experience with Python, SQL, Power BI, JavaScript, React, and MATLAB, and I’ve worked on projects ranging from sales and banking dashboards to ECG signal processing. I’m passionate about problem-solving, debugging, and continuous learning, and I enjoy collaborating on real-world, impact-driven projects.
+
+🔧 Tech Stack
+Languages: Python, C, C++, JavaScript, SQL
+Data & Visualization: Power BI, Excel, Pandas, NumPy, Matplotlib
+Web: HTML, CSS, React
+Tools: Git, VS Code, MATLAB, Jupyter Notebook
+🚀 What I’m Working On
+Data visualization and analytics projects
+Front-end web applications
+System-level and analytical problem solving
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/monu_dream_fighter_?igsh=MXdvbHJxMGhodjdkcA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/allumalla-yaswanth-a0a300287 ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yaswantha370@gmail.com) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=yaswanthallumalla-crypto&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=yaswanthallumalla-crypto&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=yaswanthallumalla-crypto&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
-# 💫 About Me
-
-🎓 Electronics and Communication Engineering student passionate about building technology-driven solutions.
-
-💡 I enjoy working on:
-- 📊 Data Analytics & Visualization
-- 🌐 Frontend Web Development
-- ⚡ Embedded Systems & IoT
-- 🔌 VLSI Design & Digital Electronics
-- 🧠 Problem Solving & Debugging
-
-🚀 I have hands-on experience in:
-- Developing analytical dashboards
-- Building responsive web applications
-- Signal processing & ECG analysis
-- Database management & visualization
-- Embedded and hardware-oriented programming
-
-📚 Currently exploring:
-- Verilog HDL
-- Embedded C
-- FPGA & Digital System Design
-- Advanced Python Projects
-- System Engineering Concepts
-
----
-
-# 🛠️ Tech Stack
-
-## 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,sql,matlab" />
-</p>
-
-## 🌐 Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,angular" />
-</p>
-
-## 📊 Data Analytics & Visualization
-<p>
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,mongodb,mysql,postgres" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-</p>
-
-## 🔌 VLSI & Embedded Systems
-<p>
-  <img src="https://img.shields.io/badge/Verilog-ED1C24?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=Mathworks&logoColor=white"/>
-</p>
-
-## ⚙️ Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,aws" />
-</p>
-
----
-
-# 🚀 Featured Interests
-
-✨ Data Visualization Dashboards  
-✨ Frontend Web Applications  
-✨ Embedded System Programming  
-✨ FPGA & VLSI Design  
-✨ Signal Processing Projects  
-✨ Analytical Problem Solving  
-
----
-
-# 📂 Projects
-
-🔹 Sales & Banking Analytics Dashboards  
-🔹 ECG Signal Processing using MATLAB  
-🔹 Python Data Analysis Projects  
-🔹 Responsive Frontend Applications  
-🔹 Embedded & Hardware-Based Mini Projects  
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/allumalla-yaswanth-a0a300287" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://www.instagram.com/monu_dream_fighter_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-
-  <a href="mailto:yaswantha370@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=yaswanthallumalla-crypto&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180em"
-  />
-
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=yaswanthallumalla-crypto&theme=tokyonight&hide_border=true"
-    height="180em"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanthallumalla-crypto&layout=compact&theme=tokyonight&hide_border=true"
-    height="170em"
-  />
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yaswanthallumalla-crypto&theme=tokyonight&no-frame=true&margin-w=15"/>
-</p>
-
----
-
-# ✨ Quote
-
-<p align="center">
-  <i>"Turning ideas into impactful technology solutions."</i>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yaswanthallumalla-crypto&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-```
+[![](https://komarev.com/ghpvc/?username=yaswanthallumalla-crypto&icon=0&color=0)](https://visitcount.itsvg.in)
