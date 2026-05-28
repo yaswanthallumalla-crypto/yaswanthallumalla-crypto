@@ -13,14 +13,15 @@ I’m an Electronics and Communication Engineering student with a strong interes
 I have hands-on experience with Python, SQL, Power BI, JavaScript, React, and MATLAB, and I’ve worked on projects ranging from sales and banking dashboards to ECG signal processing. I’m passionate about problem-solving, debugging, and continuous learning, and I enjoy collaborating on real-world, impact-driven projects.
 
 🔧 Tech Stack
-Languages: Python, C, C++, JavaScript, SQL
+Languages: Python, C, C++, JavaScript, SQL,Verilog,System verilog
 Data & Visualization: Power BI, Excel, Pandas, NumPy, Matplotlib
 Web: HTML, CSS, React
-Tools: Git, VS Code, MATLAB, Jupyter Notebook
+Tools: Git, VS Code, MATLAB, Jupyter Notebook,Cadence virtuoso,ModelSim,Keil vision
 🚀 What I’m Working On
 Data visualization and analytics projects
 Front-end web applications
 System-level and analytical problem solving
+Design verification,PCB Design
 
 
 ## 🌐 Socials:
