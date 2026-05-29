@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:4F46E5&height=220&section=header&text=Yaswanth%20Allumalla&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Electronics%20and%20Communication%20Engineer%20|%20Data%20Analytics%20|%20Python%20Developer&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:4F46E5&height=220&section=header&text=ALLUMALLA%20YASWANTH&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Electronics%20and%20Communication%20Engineer%20|%20Data%20Analytics%20|%20Python%20Developer&descAlignY=60"/>
 </p>
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi there, I'm Yaswanth
 
