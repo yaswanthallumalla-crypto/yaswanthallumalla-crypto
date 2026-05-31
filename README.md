@@ -17,7 +17,7 @@ Languages: Python, C, C++, JavaScript, SQL,Verilog,System verilog
 Data & Visualization: Power BI, Excel, Pandas, NumPy, Matplotlib
 Web: HTML, CSS, React
 Tools: Git, VS Code, MATLAB, Jupyter Notebook,Cadence virtuoso,ModelSim,Keil vision
-🚀 What I’m Working On
+🚀 What I’m Working on
 Data visualization and analytics projects
 Front-end web applications
 System-level and analytical problem solving
